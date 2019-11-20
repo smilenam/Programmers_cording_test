@@ -23,7 +23,7 @@
 		54C4A5092384DA7500C20273 /* AlignmentStrings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A5082384DA7500C20273 /* AlignmentStrings.swift */; };
 		54C4A50B2384DABA00C20273 /* StringHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A50A2384DABA00C20273 /* StringHandling.swift */; };
 		54C4A50D2384DACD00C20273 /* SeoulKim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A50C2384DACD00C20273 /* SeoulKim.swift */; };
-		54C4A5102384DC9400C20273 /* MockTest .swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A50F2384DC9400C20273 /* MockTest .swift */; };
+		54C4A5102384DC9400C20273 /* MockTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A50F2384DC9400C20273 /* MockTest.swift */; };
 		54C4A5122384DD0100C20273 /* Watermelon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A5112384DD0100C20273 /* Watermelon.swift */; };
 /* End PBXBuildFile section */
 
@@ -46,7 +46,7 @@
 		54C4A5082384DA7500C20273 /* AlignmentStrings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlignmentStrings.swift; sourceTree = "<group>"; };
 		54C4A50A2384DABA00C20273 /* StringHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringHandling.swift; sourceTree = "<group>"; };
 		54C4A50C2384DACD00C20273 /* SeoulKim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeoulKim.swift; sourceTree = "<group>"; };
-		54C4A50F2384DC9400C20273 /* MockTest .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MockTest .swift"; sourceTree = "<group>"; };
+		54C4A50F2384DC9400C20273 /* MockTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockTest.swift; sourceTree = "<group>"; };
 		54C4A5112384DD0100C20273 /* Watermelon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watermelon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,7 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				54C4A4F82384D7F200C20273 /* Kdigit.swift */,
-				54C4A50F2384DC9400C20273 /* MockTest .swift */,
+				54C4A50F2384DC9400C20273 /* MockTest.swift */,
 				54C4A4FA2384D81500C20273 /* year2016.swift */,
 				54C4A4FC2384D82800C20273 /* CenterWord.swift */,
 				54C4A4FE2384D9D700C20273 /* ArrayDivision.swift */,
@@ -224,7 +224,7 @@
 			files = (
 				5446282422B242A300B75CA6 /* ViewController.swift in Sources */,
 				54C4A50D2384DACD00C20273 /* SeoulKim.swift in Sources */,
-				54C4A5102384DC9400C20273 /* MockTest .swift in Sources */,
+				54C4A5102384DC9400C20273 /* MockTest.swift in Sources */,
 				54C4A4FD2384D82800C20273 /* CenterWord.swift in Sources */,
 				54C4A4FF2384D9D700C20273 /* ArrayDivision.swift in Sources */,
 				54C4A4F92384D7F200C20273 /* Kdigit.swift in Sources */,
