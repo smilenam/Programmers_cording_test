@@ -12,6 +12,11 @@
 		5446282722B242A300B75CA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5446282522B242A300B75CA6 /* Main.storyboard */; };
 		5446282922B242A500B75CA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5446282822B242A500B75CA6 /* Assets.xcassets */; };
 		5446282C22B242A500B75CA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5446282A22B242A500B75CA6 /* LaunchScreen.storyboard */; };
+		54B2E0F723868BFF00C9A55A /* StringToInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2E0F623868BFF00C9A55A /* StringToInt.swift */; };
+		54B2E0F9238769BE00C9A55A /* CaesarCipher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2E0F8238769BE00C9A55A /* CaesarCipher.swift */; };
+		54B2E0FB23879F6500C9A55A /* SumFactor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2E0FA23879F6500C9A55A /* SumFactor.swift */; };
+		54B2E0FD2387B3A100C9A55A /* StrangeCharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B2E0FC2387B3A100C9A55A /* StrangeCharacter.swift */; };
+		54B2E0FF2387B3DC00C9A55A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 54B2E0FE2387B3DC00C9A55A /* README.md */; };
 		54C4A4F92384D7F200C20273 /* Kdigit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A4F82384D7F200C20273 /* Kdigit.swift */; };
 		54C4A4FB2384D81500C20273 /* year2016.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A4FA2384D81500C20273 /* year2016.swift */; };
 		54C4A4FD2384D82800C20273 /* CenterWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54C4A4FC2384D82800C20273 /* CenterWord.swift */; };
@@ -35,6 +40,11 @@
 		5446282822B242A500B75CA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5446282B22B242A500B75CA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5446282D22B242A500B75CA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54B2E0F623868BFF00C9A55A /* StringToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringToInt.swift; sourceTree = "<group>"; };
+		54B2E0F8238769BE00C9A55A /* CaesarCipher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaesarCipher.swift; sourceTree = "<group>"; };
+		54B2E0FA23879F6500C9A55A /* SumFactor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumFactor.swift; sourceTree = "<group>"; };
+		54B2E0FC2387B3A100C9A55A /* StrangeCharacter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrangeCharacter.swift; sourceTree = "<group>"; };
+		54B2E0FE2387B3DC00C9A55A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		54C4A4F82384D7F200C20273 /* Kdigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kdigit.swift; sourceTree = "<group>"; };
 		54C4A4FA2384D81500C20273 /* year2016.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = year2016.swift; sourceTree = "<group>"; };
 		54C4A4FC2384D82800C20273 /* CenterWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterWord.swift; sourceTree = "<group>"; };
@@ -106,6 +116,10 @@
 				54C4A50C2384DACD00C20273 /* SeoulKim.swift */,
 				54C4A5042384DA2500C20273 /* GetPrime.swift */,
 				54C4A5112384DD0100C20273 /* Watermelon.swift */,
+				54B2E0F623868BFF00C9A55A /* StringToInt.swift */,
+				54B2E0F8238769BE00C9A55A /* CaesarCipher.swift */,
+				54B2E0FA23879F6500C9A55A /* SumFactor.swift */,
+				54B2E0FC2387B3A100C9A55A /* StrangeCharacter.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -147,6 +161,7 @@
 				5446282822B242A500B75CA6 /* Assets.xcassets */,
 				5446282A22B242A500B75CA6 /* LaunchScreen.storyboard */,
 				5446282D22B242A500B75CA6 /* Info.plist */,
+				54B2E0FE2387B3DC00C9A55A /* README.md */,
 			);
 			path = Default;
 			sourceTree = "<group>";
@@ -211,6 +226,7 @@
 			files = (
 				5446282C22B242A500B75CA6 /* LaunchScreen.storyboard in Resources */,
 				5446282922B242A500B75CA6 /* Assets.xcassets in Resources */,
+				54B2E0FF2387B3DC00C9A55A /* README.md in Resources */,
 				5446282722B242A300B75CA6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -223,10 +239,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				5446282422B242A300B75CA6 /* ViewController.swift in Sources */,
+				54B2E0F723868BFF00C9A55A /* StringToInt.swift in Sources */,
 				54C4A50D2384DACD00C20273 /* SeoulKim.swift in Sources */,
 				54C4A5102384DC9400C20273 /* MockTest.swift in Sources */,
+				54B2E0FB23879F6500C9A55A /* SumFactor.swift in Sources */,
 				54C4A4FD2384D82800C20273 /* CenterWord.swift in Sources */,
+				54B2E0FD2387B3A100C9A55A /* StrangeCharacter.swift in Sources */,
 				54C4A4FF2384D9D700C20273 /* ArrayDivision.swift in Sources */,
+				54B2E0F9238769BE00C9A55A /* CaesarCipher.swift in Sources */,
 				54C4A4F92384D7F200C20273 /* Kdigit.swift in Sources */,
 				54C4A5012384D9ED00C20273 /* PYCount.swift in Sources */,
 				54C4A5052384DA2500C20273 /* GetPrime.swift in Sources */,

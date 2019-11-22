@@ -12,6 +12,14 @@ import UIKit
 class Watermelon: UIViewController {
     // Level 1 수박수박수박수박수?
     func solution(_ n:Int) -> String {
-        return ""
+
+        var watermelon = ""
+        let indexList = [[Int]](repeating: [0,1], count: n).flatMap{$0}
+        
+        for i in (0...n-1) {
+            watermelon += "수박".map{String($0)}[indexList[i]]
+        }
+        
+        return watermelon
     }
 }
