@@ -2,8 +2,8 @@
 //  GetPrime.swift
 //  CordingTest
 //
-//  Created by unidocsmac on 2019/11/20.
-//  Copyright © 2019 unidocs. All rights reserved.
+//  Created by Nam on 2019/11/20.
+//  Copyright © 2019 Nam. All rights reserved.
 //
 
 import Foundation

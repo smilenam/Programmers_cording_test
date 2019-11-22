@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  CordingTest
 //
-//  Created by unidocsmac on 13/06/2019.
-//  Copyright © 2019 unidocs. All rights reserved.
+//  Created by Nam on 13/06/2019.
+//  Copyright © 2019 Nam. All rights reserved.
 //  programmers.co.kr 문제 풀이
 
 import UIKit
@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func touchedTest(_ sender: UIButton) {
-        
+
     }
 }
 
