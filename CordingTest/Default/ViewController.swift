@@ -16,7 +16,9 @@ class ViewController: UIViewController {
     }
 
     @IBAction func touchedTest(_ sender: UIButton) {
-
+        let test = NumSquareRoot()
+        print("\n result : \(test.solution(4))")
+        
     }
 }
 
