@@ -16,6 +16,11 @@
 		5416988D2390B33300C7E0BF /* CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988C2390B33300C7E0BF /* CollatzConjecture.swift */; };
 		5416988F2390B77400C7E0BF /* Averaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988E2390B77400C7E0BF /* Averaging.swift */; };
 		541698912390D16F00C7E0BF /* HarshadNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698902390D16F00C7E0BF /* HarshadNumber.swift */; };
+		541698932390D75C00C7E0BF /* PhoneNumCover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698922390D75C00C7E0BF /* PhoneNumCover.swift */; };
+		541698952390DBBB00C7E0BF /* SumMatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698942390DBBB00C7E0BF /* SumMatrix.swift */; };
+		541698972390E6E600C7E0BF /* XInterval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698962390E6E600C7E0BF /* XInterval.swift */; };
+		541698992390EA8500C7E0BF /* RectangleStar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698982390EA8500C7E0BF /* RectangleStar.swift */; };
+		5416989B2390F08700C7E0BF /* Budget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416989A2390F08700C7E0BF /* Budget.swift */; };
 		5446282222B242A300B75CA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5446282122B242A300B75CA6 /* AppDelegate.swift */; };
 		5446282422B242A300B75CA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5446282322B242A300B75CA6 /* ViewController.swift */; };
 		5446282722B242A300B75CA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5446282522B242A300B75CA6 /* Main.storyboard */; };
@@ -52,6 +57,11 @@
 		5416988C2390B33300C7E0BF /* CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollatzConjecture.swift; sourceTree = "<group>"; };
 		5416988E2390B77400C7E0BF /* Averaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Averaging.swift; sourceTree = "<group>"; };
 		541698902390D16F00C7E0BF /* HarshadNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarshadNumber.swift; sourceTree = "<group>"; };
+		541698922390D75C00C7E0BF /* PhoneNumCover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneNumCover.swift; sourceTree = "<group>"; };
+		541698942390DBBB00C7E0BF /* SumMatrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumMatrix.swift; sourceTree = "<group>"; };
+		541698962390E6E600C7E0BF /* XInterval.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XInterval.swift; sourceTree = "<group>"; };
+		541698982390EA8500C7E0BF /* RectangleStar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleStar.swift; sourceTree = "<group>"; };
+		5416989A2390F08700C7E0BF /* Budget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Budget.swift; sourceTree = "<group>"; };
 		5446281E22B242A300B75CA6 /* CordingTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CordingTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5446282122B242A300B75CA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5446282322B242A300B75CA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 1; };
@@ -150,6 +160,11 @@
 				5416988C2390B33300C7E0BF /* CollatzConjecture.swift */,
 				5416988E2390B77400C7E0BF /* Averaging.swift */,
 				541698902390D16F00C7E0BF /* HarshadNumber.swift */,
+				541698922390D75C00C7E0BF /* PhoneNumCover.swift */,
+				541698942390DBBB00C7E0BF /* SumMatrix.swift */,
+				541698962390E6E600C7E0BF /* XInterval.swift */,
+				541698982390EA8500C7E0BF /* RectangleStar.swift */,
+				5416989A2390F08700C7E0BF /* Budget.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -269,11 +284,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				541698912390D16F00C7E0BF /* HarshadNumber.swift in Sources */,
+				541698932390D75C00C7E0BF /* PhoneNumCover.swift in Sources */,
 				5416988D2390B33300C7E0BF /* CollatzConjecture.swift in Sources */,
 				54169889238FBB1B00C7E0BF /* EvenOddNumber.swift in Sources */,
 				5446282422B242A300B75CA6 /* ViewController.swift in Sources */,
 				54169784238BD55C00C7E0BF /* SmallestNumDelete..swift in Sources */,
 				54B2E0F723868BFF00C9A55A /* StringToInt.swift in Sources */,
+				541698972390E6E600C7E0BF /* XInterval.swift in Sources */,
+				541698952390DBBB00C7E0BF /* SumMatrix.swift in Sources */,
+				541698992390EA8500C7E0BF /* RectangleStar.swift in Sources */,
 				54169782238BB9C300C7E0BF /* NumSquareRoot.swift in Sources */,
 				54C4A50D2384DACD00C20273 /* SeoulKim.swift in Sources */,
 				54C1084C2387DEDF00B5890B /* DigitsSum.swift in Sources */,
@@ -292,6 +311,7 @@
 				54C4A5092384DA7500C20273 /* AlignmentStrings.swift in Sources */,
 				54C4A5072384DA5300C20273 /* NumberSum.swift in Sources */,
 				5446282222B242A300B75CA6 /* AppDelegate.swift in Sources */,
+				5416989B2390F08700C7E0BF /* Budget.swift in Sources */,
 				54C4A4FB2384D81500C20273 /* year2016.swift in Sources */,
 				54C4A5032384DA1100C20273 /* WordDescending.swift in Sources */,
 				54C4A5122384DD0100C20273 /* Watermelon.swift in Sources */,
