@@ -12,7 +12,7 @@
 		54169782238BB9C300C7E0BF /* NumSquareRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169781238BB9C300C7E0BF /* NumSquareRoot.swift */; };
 		54169784238BD55C00C7E0BF /* SmallestNumDelete..swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */; };
 		54169889238FBB1B00C7E0BF /* EvenOddNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */; };
-		5416988B238FBBDE00C7E0BF /* MaxMinNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */; };
+		5416988B238FBBDE00C7E0BF /* GcdLcm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988A238FBBDE00C7E0BF /* GcdLcm.swift */; };
 		5416988D2390B33300C7E0BF /* CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988C2390B33300C7E0BF /* CollatzConjecture.swift */; };
 		5416988F2390B77400C7E0BF /* Averaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988E2390B77400C7E0BF /* Averaging.swift */; };
 		541698912390D16F00C7E0BF /* HarshadNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698902390D16F00C7E0BF /* HarshadNumber.swift */; };
@@ -48,7 +48,7 @@
 		54169781238BB9C300C7E0BF /* NumSquareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumSquareRoot.swift; sourceTree = "<group>"; };
 		54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumDelete..swift; sourceTree = "<group>"; };
 		54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenOddNumber.swift; sourceTree = "<group>"; };
-		5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxMinNumber.swift; sourceTree = "<group>"; };
+		5416988A238FBBDE00C7E0BF /* GcdLcm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GcdLcm.swift; sourceTree = "<group>"; };
 		5416988C2390B33300C7E0BF /* CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollatzConjecture.swift; sourceTree = "<group>"; };
 		5416988E2390B77400C7E0BF /* Averaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Averaging.swift; sourceTree = "<group>"; };
 		541698902390D16F00C7E0BF /* HarshadNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarshadNumber.swift; sourceTree = "<group>"; };
@@ -146,7 +146,7 @@
 				54169781238BB9C300C7E0BF /* NumSquareRoot.swift */,
 				54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */,
 				54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */,
-				5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */,
+				5416988A238FBBDE00C7E0BF /* GcdLcm.swift */,
 				5416988C2390B33300C7E0BF /* CollatzConjecture.swift */,
 				5416988E2390B77400C7E0BF /* Averaging.swift */,
 				541698902390D16F00C7E0BF /* HarshadNumber.swift */,
@@ -287,7 +287,7 @@
 				54B2E0F9238769BE00C9A55A /* CaesarCipher.swift in Sources */,
 				54C4A4F92384D7F200C20273 /* Kdigit.swift in Sources */,
 				54C4A5012384D9ED00C20273 /* PYCount.swift in Sources */,
-				5416988B238FBBDE00C7E0BF /* MaxMinNumber.swift in Sources */,
+				5416988B238FBBDE00C7E0BF /* GcdLcm.swift in Sources */,
 				54C4A5052384DA2500C20273 /* GetPrime.swift in Sources */,
 				54C4A5092384DA7500C20273 /* AlignmentStrings.swift in Sources */,
 				54C4A5072384DA5300C20273 /* NumberSum.swift in Sources */,

@@ -1,5 +1,5 @@
 //
-//  MaxMinNumber.swift
+//  GcdLcm.swift
 //  CordingTest
 //
 //  Created by Nam on 2019/11/28.
@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class MaxMinNumber: UIViewController {
+class GcdLcm: UIViewController {
     // Level 1 최대공약수와 최소공배수
     func solution(_ n:Int, _ m:Int) -> [Int] {
         // 유클리드 공식을 위한 큰수,작은수 필요
