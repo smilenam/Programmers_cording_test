@@ -10,6 +10,12 @@
 		5416977E238BA7AA00C7E0BF /* ReverseNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416977D238BA7AA00C7E0BF /* ReverseNumber.swift */; };
 		54169780238BB7DE00C7E0BF /* NumDescending.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416977F238BB7DE00C7E0BF /* NumDescending.swift */; };
 		54169782238BB9C300C7E0BF /* NumSquareRoot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169781238BB9C300C7E0BF /* NumSquareRoot.swift */; };
+		54169784238BD55C00C7E0BF /* SmallestNumDelete..swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */; };
+		54169889238FBB1B00C7E0BF /* EvenOddNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */; };
+		5416988B238FBBDE00C7E0BF /* MaxMinNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */; };
+		5416988D2390B33300C7E0BF /* CollatzConjecture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988C2390B33300C7E0BF /* CollatzConjecture.swift */; };
+		5416988F2390B77400C7E0BF /* Averaging.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5416988E2390B77400C7E0BF /* Averaging.swift */; };
+		541698912390D16F00C7E0BF /* HarshadNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 541698902390D16F00C7E0BF /* HarshadNumber.swift */; };
 		5446282222B242A300B75CA6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5446282122B242A300B75CA6 /* AppDelegate.swift */; };
 		5446282422B242A300B75CA6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5446282322B242A300B75CA6 /* ViewController.swift */; };
 		5446282722B242A300B75CA6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5446282522B242A300B75CA6 /* Main.storyboard */; };
@@ -40,6 +46,12 @@
 		5416977D238BA7AA00C7E0BF /* ReverseNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseNumber.swift; sourceTree = "<group>"; };
 		5416977F238BB7DE00C7E0BF /* NumDescending.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumDescending.swift; sourceTree = "<group>"; };
 		54169781238BB9C300C7E0BF /* NumSquareRoot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumSquareRoot.swift; sourceTree = "<group>"; };
+		54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallestNumDelete..swift; sourceTree = "<group>"; };
+		54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenOddNumber.swift; sourceTree = "<group>"; };
+		5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxMinNumber.swift; sourceTree = "<group>"; };
+		5416988C2390B33300C7E0BF /* CollatzConjecture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollatzConjecture.swift; sourceTree = "<group>"; };
+		5416988E2390B77400C7E0BF /* Averaging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Averaging.swift; sourceTree = "<group>"; };
+		541698902390D16F00C7E0BF /* HarshadNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarshadNumber.swift; sourceTree = "<group>"; };
 		5446281E22B242A300B75CA6 /* CordingTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CordingTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5446282122B242A300B75CA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5446282322B242A300B75CA6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 1; };
@@ -132,6 +144,12 @@
 				5416977D238BA7AA00C7E0BF /* ReverseNumber.swift */,
 				5416977F238BB7DE00C7E0BF /* NumDescending.swift */,
 				54169781238BB9C300C7E0BF /* NumSquareRoot.swift */,
+				54169783238BD55C00C7E0BF /* SmallestNumDelete..swift */,
+				54169888238FBB1B00C7E0BF /* EvenOddNumber.swift */,
+				5416988A238FBBDE00C7E0BF /* MaxMinNumber.swift */,
+				5416988C2390B33300C7E0BF /* CollatzConjecture.swift */,
+				5416988E2390B77400C7E0BF /* Averaging.swift */,
+				541698902390D16F00C7E0BF /* HarshadNumber.swift */,
 			);
 			path = "Level 1";
 			sourceTree = "<group>";
@@ -250,7 +268,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				541698912390D16F00C7E0BF /* HarshadNumber.swift in Sources */,
+				5416988D2390B33300C7E0BF /* CollatzConjecture.swift in Sources */,
+				54169889238FBB1B00C7E0BF /* EvenOddNumber.swift in Sources */,
 				5446282422B242A300B75CA6 /* ViewController.swift in Sources */,
+				54169784238BD55C00C7E0BF /* SmallestNumDelete..swift in Sources */,
 				54B2E0F723868BFF00C9A55A /* StringToInt.swift in Sources */,
 				54169782238BB9C300C7E0BF /* NumSquareRoot.swift in Sources */,
 				54C4A50D2384DACD00C20273 /* SeoulKim.swift in Sources */,
@@ -261,9 +283,11 @@
 				54C4A4FD2384D82800C20273 /* CenterWord.swift in Sources */,
 				54B2E0FD2387B3A100C9A55A /* StrangeCharacter.swift in Sources */,
 				54C4A4FF2384D9D700C20273 /* ArrayDivision.swift in Sources */,
+				5416988F2390B77400C7E0BF /* Averaging.swift in Sources */,
 				54B2E0F9238769BE00C9A55A /* CaesarCipher.swift in Sources */,
 				54C4A4F92384D7F200C20273 /* Kdigit.swift in Sources */,
 				54C4A5012384D9ED00C20273 /* PYCount.swift in Sources */,
+				5416988B238FBBDE00C7E0BF /* MaxMinNumber.swift in Sources */,
 				54C4A5052384DA2500C20273 /* GetPrime.swift in Sources */,
 				54C4A5092384DA7500C20273 /* AlignmentStrings.swift in Sources */,
 				54C4A5072384DA5300C20273 /* NumberSum.swift in Sources */,
